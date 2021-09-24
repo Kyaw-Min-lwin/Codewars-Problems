@@ -1,3 +1,4 @@
+// link to the problem   https://www.codewars.com/kata/515bb423de843ea99400000a/solutions/javascript/me/best_practice
 // The constructor takes in an array of items and a integer indicating how many
 // items fit within a single page
 function PaginationHelper(collection, itemsPerPage) {
